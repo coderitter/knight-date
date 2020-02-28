@@ -1,6 +1,6 @@
 {
   "name": "mega-nice-date",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "lib/date.js",
   "types": "lib/date.d.ts",
