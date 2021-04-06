@@ -1,13 +1,12 @@
 {
-  "name": "mega-nice-date",
-  "version": "1.0.1",
+  "name": "knight-date",
+  "version": "1.0.0",
   "description": "",
   "main": "lib/date.js",
   "types": "lib/date.d.ts",
   "files": [
     "lib/**/*"
   ],
-  "dependencies": {},
   "devDependencies": {
     "@types/chai": "^4.2.7",
     "@types/mocha": "^5.2.7",
@@ -23,14 +22,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/c0deritter/mega-nice-date.git"
+    "url": "git+https://github.com/c0deritter/knight-date.git"
   },
   "keywords": [
     ""
   ],
   "author": "Coderitter GmbH",
   "bugs": {
-    "url": "https://github.com/c0deritter/mega-nice-date/issues"
+    "url": "https://github.com/c0deritter/knight-date/issues"
   },
-  "homepage": "https://github.com/c0deritter/mega-nice-date#readme"
+  "homepage": "https://github.com/c0deritter/knight-date#readme"
 }
